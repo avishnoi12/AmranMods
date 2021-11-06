@@ -1,7 +1,7 @@
 # AmranMods
 
-1) Click Green Button 'Code'
-2) Download ZIP
+1) Open School email
+2) Download ZIP file from email
 3) Extract ZIP Folder
 5) Press Windows+R then type %appdata%
 5) Go into.minecraft/mods and delete all mods in the folder
