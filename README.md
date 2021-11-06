@@ -6,10 +6,11 @@
 5) Press Windows+R then type %appdata%
 5) Go into.minecraft/mods and delete all mods in the folder
 4) Copy Mods from 'Mods for 1.16 pak' into .minecraft/mods folder
-5) Download LATEST VERSION of forge from https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
-6) Run the .jar file you downloaded
-7) Install forge client
-8) Load up minecraft, go to installations - create a new installation
-9) Change Version to 1.16.5-forge-36.2.9
-10) Click save
-11) Click play on the installation
+5) Download LATEST VERSION of forge from https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html by clicking on 'Installer'
+6) Click 'Skip' in the top right
+7) Run the .jar file you downloaded
+8) Install forge client
+9) Load up minecraft, go to installations - create a new installation
+10) Change Version to 1.16.5-forge-36.2.9
+11) Click save
+12) Click play on the installation
