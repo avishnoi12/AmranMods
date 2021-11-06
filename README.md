@@ -12,5 +12,7 @@
 8) Install forge client
 9) Load up minecraft, go to installations - create a new installation
 10) Change Version to 1.16.5-forge-36.2.9
-11) Click save
-12) Click play on the installation
+11) Click more options
+12) Where it says '-Xmx2G' change the '2' to a '6'
+13) Click save
+14) Click play on the installation
